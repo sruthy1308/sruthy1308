@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src = "https://github.com/user-attachments/assets/3d44e5d6-d105-43aa-9c21-22fd3cbca561" width = 150px height =400px>
+<img src = "https://github.com/user-attachments/assets/3d44e5d6-d105-43aa-9c21-22fd3cbca561" width = 200px height =600px>
 <!--
 **sruthy1308/sruthy1308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
